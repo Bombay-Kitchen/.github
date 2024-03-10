@@ -2,9 +2,4 @@
 
 **Bombay Kitchen Official Website**
 
-- Based on above motto this project is ment to design user and seller based website system
-- There will be active concurrent user's for the website 
-- There will be active orders and daily changes in the usage 
-- Montoring System and Layed Deployment 
-- Error Handling and Data Security for the Users is Mandatory to set the Standards
-- This Project is to Manager, Create , Access and Develope the Bombay Kitchen Offical Website and Backend Systems
+This Repository Contains Only Readme File for The Organization
